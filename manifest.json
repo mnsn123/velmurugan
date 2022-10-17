@@ -1,0 +1,20 @@
+{
+  "dir": "auto",
+  "name": "Your website title",
+  "short_name": "Your website title",
+  "scope": "https://monsoonmalabar.com/velmurugan/",
+  "lang": "en",
+  "description": "The neighbourhood friend",
+  "icons": [
+    {
+      "src": "https://monsoonmalabar.com/velmurugan/logo.png",
+      "sizes": "512x512",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#1266f1",
+  "background_color": "#fdfdfd",
+  "start_url": "https://monsoonmalabar.com/velmurugan\/?external=false",
+  "display": "standalone",
+  "orientation": "any"
+}
